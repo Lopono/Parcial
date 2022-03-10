@@ -1,0 +1,7 @@
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\bin\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.exe.config
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\bin\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.exe
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\bin\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.pdb
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\obj\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.csprojAssemblyReference.cache
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\obj\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.csproj.CoreCompileInputs.cache
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\obj\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.exe
+C:\Users\SALA DE SISTEMAS\source\repos\ParcialElectiva-Leiner Navas -Emily Martinez\ParcialElectiva-Leiner Navas -Emily Martinez\obj\Debug\ParcialElectiva-Leiner Navas -Emily Martinez.pdb
